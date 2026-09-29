@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Copyrighted exam content — not yours to redistribute
+past_papers/
+mark_schemes/
+
+# Generated data derived from copyrighted content
+spec_list.json
+questions.json
+catalog.json
+student_stats.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Compiled binary — machine-specific, regenerated via compile command
+*.so
+
+# Temp files created during marking
+temp_answer.jpg
